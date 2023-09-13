@@ -1,3 +1,3 @@
 # Data-Science-Projects
-![](https://lh3.googleusercontent.com/yuUrDV2DAtBRvItHZ2FvXMkPbHR5NEt4kXbpp8dgK-r9jI9-irP19GJb2CvdBRYmy41KG4BxFu2Hod9GzdgGc46iYmm7As4bNNsc-JP7vYwY8d1BzHgZdvKR7H4xtLM20zR9gn0PJE-nQU0navp9Xh0pHc3Cp-CjYUENN7dWZ3NJiw8CiHFEJn7Mc0ul_A)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mygreatlearning.com%2Fblog%2Fwhat-is-data-science%2F&psig=AOvVaw2AZaNfDWPjLE5612fYM3C4&ust=1694696105559000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDGto3Rp4EDFQAAAAAdAAAAABAQ)
 Welcome to my Data Science Projects Repository! This repository contains a collection of my data science projects, showcasing my skills and expertise in the field. Each project demonstrates different aspects of data analysis, machine learning, and visualization.
