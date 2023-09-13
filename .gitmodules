@@ -1,0 +1,6 @@
+[submodule "Airline-Passenger-Satisfaction"]
+	path = Airline-Passenger-Satisfaction
+	url = https://github.com/IrtizaR/Customer-Airline-Satisfaction.git
+[submodule "Dr.-Semmelweis-and-the-discovery-of-handwashing"]
+	path = Dr.-Semmelweis-and-the-discovery-of-handwashing
+	url = https://github.com/IrtizaR/Dr.-Semmelweis-and-the-discovery-of-handwashing.git
