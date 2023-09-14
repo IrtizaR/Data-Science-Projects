@@ -4,3 +4,6 @@
 [submodule "Dr.-Semmelweis-and-the-discovery-of-handwashing"]
 	path = Dr.-Semmelweis-and-the-discovery-of-handwashing
 	url = https://github.com/IrtizaR/Dr.-Semmelweis-and-the-discovery-of-handwashing.git
+[submodule "Predicting-Credit-Card-Approvals"]
+	path = Predicting-Credit-Card-Approvals
+	url = https://github.com/IrtizaR/Predicting-Credit-Card-Approvals.git
